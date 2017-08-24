@@ -1,2 +1,4 @@
-# cellular-automata
-Fiddling around with cellular automata 🎎
+# Cellular automata
+Fiddling around with cellular automata 🦑
+
+[Demo](https://haroldangenent.github.io/cellular-automata/)
